@@ -63,6 +63,12 @@ It facilitates Proof of Concept (POC) evaluations, assesses security controls, m
 
    You'll be prompted to enter your Access Key ID, Secret Access Key, and default region name.
 
+### Clone COBRA tool GitHub repo
+
+```
+git clone https://github.com/PaloAltoNetworks/cobra-tool.git
+
+```
 
 ### Install COBRA Tool
 
